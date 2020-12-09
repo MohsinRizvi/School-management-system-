@@ -1,0 +1,10 @@
+Name		String	50
+Fathername	String	50
+Date		Date
+Class		String	50
+GRNNumber	Number
+CellNo		Number
+MonthName	String	50
+MonthlyFees	Number
+ExtraFeesName	String	50
+ExtraFeesAmount	Number

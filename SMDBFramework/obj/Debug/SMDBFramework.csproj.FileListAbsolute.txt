@@ -1,0 +1,10 @@
+C:\Users\SYED IBAD ALI\Documents\Visual Studio 2015\Projects\School Management System Software\SMDBFramework\bin\Debug\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Documents\Visual Studio 2015\Projects\School Management System Software\SMDBFramework\bin\Debug\SMDBFramework.pdb
+C:\Users\SYED IBAD ALI\Documents\Visual Studio 2015\Projects\School Management System Software\SMDBFramework\obj\Debug\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Documents\Visual Studio 2015\Projects\School Management System Software\SMDBFramework\obj\Debug\SMDBFramework.pdb
+C:\Users\SYED IBAD ALI\Documents\Visual Studio 2015\Projects\School Management System Software\SMDBFramework\obj\Debug\SMDBFramework.csprojResolveAssemblyReference.cache
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\bin\Debug\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\bin\Debug\SMDBFramework.pdb
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\obj\Debug\SMDBFramework.csprojResolveAssemblyReference.cache
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\obj\Debug\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\obj\Debug\SMDBFramework.pdb

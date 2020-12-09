@@ -1,0 +1,9 @@
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\bin\Release\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\bin\Release\SMDBFramework.pdb
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\obj\Release\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\SMDBFramework\obj\Release\SMDBFramework.pdb
+E:\School Management System Software\SMDBFramework\bin\Release\SMDBFramework.dll
+E:\School Management System Software\SMDBFramework\bin\Release\SMDBFramework.pdb
+E:\School Management System Software\SMDBFramework\obj\Release\SMDBFramework.csprojResolveAssemblyReference.cache
+E:\School Management System Software\SMDBFramework\obj\Release\SMDBFramework.dll
+E:\School Management System Software\SMDBFramework\obj\Release\SMDBFramework.pdb

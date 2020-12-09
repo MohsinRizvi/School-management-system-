@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School Management System Software", "School Management System Software\School Management System Software.csproj", "{E8A06BE2-2C39-4D2E-ADF8-B2FD69308C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMDBFramework", "SMDBFramework\SMDBFramework.csproj", "{50C281E1-528C-4039-A83F-03137E70056B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A06BE2-2C39-4D2E-ADF8-B2FD69308C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A06BE2-2C39-4D2E-ADF8-B2FD69308C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A06BE2-2C39-4D2E-ADF8-B2FD69308C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A06BE2-2C39-4D2E-ADF8-B2FD69308C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C281E1-528C-4039-A83F-03137E70056B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C281E1-528C-4039-A83F-03137E70056B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C281E1-528C-4039-A83F-03137E70056B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C281E1-528C-4039-A83F-03137E70056B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

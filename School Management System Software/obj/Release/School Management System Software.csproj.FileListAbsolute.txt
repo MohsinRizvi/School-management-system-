@@ -1,0 +1,116 @@
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\TotalStudents.rpt
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\DailyEarnings.rpt
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\Dues.rpt
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_AllClasses_Monthly.rpt
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_Class_Monthly.rpt
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_GR_Monthly.rpt
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\TotalStudents.cs
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\DailyEarnings.cs
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\Dues.cs
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_AllClasses_Monthly.cs
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_Class_Monthly.cs
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_GR_Monthly.cs
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\School Management System Software.exe.config
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\School Management System Software.exe
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\School Management System Software.pdb
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\FlashControlV71.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\SMDBFramework.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\bin\Release\SMDBFramework.pdb
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School Management System Software.csprojResolveAssemblyReference.cache
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\Interop.CRQUERYENGINE.dll
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School Management System Software.csproj.ResolveComReference.cache
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.ExtraDuesForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Annually_Screen.AnnualByAllClasses.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Annually_Screen.AnnualByClassForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Annually_Screen.AnnualByGRForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_ExtraFees_Screen.ExtraFeesByAllClasses.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_ExtraFees_Screen.ExtraFeesByClassForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_ExtraFees_Screen.ExtraFeesByGRForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Monthly_Screen.AnnualByAllClasses.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Monthly_Screen.AnnualByClassForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Monthly_Screen.ByGRForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.IncrementAnnuallyForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.IncrementExtraFeesForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Models.Increment.IncrementMonthlyForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Models.Increment.ManageIncrementForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Properties.Resources.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.ReportForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.DashboardForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.AnnualDuesForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.MonthDuesForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.ManageDuesForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.AllClassesMonthlyVoucherForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.ClassMonthlyVoucherForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.GRMonthlyVoucherForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.ManageFeesForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.LoginForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Statements.StatementsForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Student.AllStudentsForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Student.ManageStudentsForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Student.StudentInfoForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Templates.TemplateForm.resources
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School Management System Software.csproj.GenerateResource.Cache
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School Management System Software.exe
+C:\Users\SYED IBAD ALI\Desktop\School Management System Software\School Management System Software\obj\Release\School Management System Software.pdb
+E:\School Management System Software\School Management System Software\bin\Release\Reports\TotalStudents.rpt
+E:\School Management System Software\School Management System Software\bin\Release\Reports\DailyEarnings.rpt
+E:\School Management System Software\School Management System Software\bin\Release\Reports\Dues.rpt
+E:\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_AllClasses_Monthly.rpt
+E:\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_Class_Monthly.rpt
+E:\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_GR_Monthly.rpt
+E:\School Management System Software\School Management System Software\bin\Release\Reports\TotalStudents.cs
+E:\School Management System Software\School Management System Software\bin\Release\Reports\DailyEarnings.cs
+E:\School Management System Software\School Management System Software\bin\Release\Reports\Dues.cs
+E:\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_AllClasses_Monthly.cs
+E:\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_Class_Monthly.cs
+E:\School Management System Software\School Management System Software\bin\Release\Reports\FeeVoucher_GR_Monthly.cs
+E:\School Management System Software\School Management System Software\bin\Release\School Management System Software.exe.config
+E:\School Management System Software\School Management System Software\bin\Release\School Management System Software.exe
+E:\School Management System Software\School Management System Software\bin\Release\School Management System Software.pdb
+E:\School Management System Software\School Management System Software\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\School Management System Software\School Management System Software\bin\Release\FlashControlV71.dll
+E:\School Management System Software\School Management System Software\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\School Management System Software\School Management System Software\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\School Management System Software\School Management System Software\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+E:\School Management System Software\School Management System Software\bin\Release\SMDBFramework.dll
+E:\School Management System Software\School Management System Software\bin\Release\SMDBFramework.pdb
+E:\School Management System Software\School Management System Software\obj\Release\School Management System Software.csprojResolveAssemblyReference.cache
+E:\School Management System Software\School Management System Software\obj\Release\Interop.CRQUERYENGINE.dll
+E:\School Management System Software\School Management System Software\obj\Release\School Management System Software.csproj.ResolveComReference.cache
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.ExtraDuesForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Annually_Screen.AnnualByAllClasses.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Annually_Screen.AnnualByClassForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Annually_Screen.AnnualByGRForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_ExtraFees_Screen.ExtraFeesByAllClasses.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_ExtraFees_Screen.ExtraFeesByClassForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_ExtraFees_Screen.ExtraFeesByGRForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Monthly_Screen.AnnualByAllClasses.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Monthly_Screen.AnnualByClassForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.Increment_Monthly_Screen.ByGRForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.IncrementAnnuallyForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Increment.IncrementExtraFeesForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Models.Increment.IncrementMonthlyForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Models.Increment.ManageIncrementForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Properties.Resources.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.ReportForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.DashboardForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.AnnualDuesForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.MonthDuesForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Dues.ManageDuesForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.AllClassesMonthlyVoucherForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.ClassMonthlyVoucherForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.GRMonthlyVoucherForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Fees.ManageFeesForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.LoginForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Statements.StatementsForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Student.AllStudentsForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Student.ManageStudentsForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Student.StudentInfoForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School_Management_System_Software.Screens.Templates.TemplateForm.resources
+E:\School Management System Software\School Management System Software\obj\Release\School Management System Software.csproj.GenerateResource.Cache
+E:\School Management System Software\School Management System Software\obj\Release\School Management System Software.exe
+E:\School Management System Software\School Management System Software\obj\Release\School Management System Software.pdb
